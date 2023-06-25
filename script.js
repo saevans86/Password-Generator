@@ -71,3 +71,5 @@ function synchCharacterAmount(e) {
     characterAmountRange.value = value
 }
 
+
+/* author is https://github.com/WebDevSimplified */
